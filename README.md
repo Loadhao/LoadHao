@@ -4,6 +4,8 @@
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Loadhao&repo=github-readme-stats)](https://github.com/Loadhao/github-readme-stats)
 
+![TaroXin Repo Star](http://repo-charts.taroxin.cn/api/repo/starChart?repo=vue-pretty-logger&owner=Loadhao)
+
 ### Hi there 👋
 
 <!--
