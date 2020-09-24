@@ -4,7 +4,7 @@
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Loadhao&repo=github-readme-stats)](https://github.com/Loadhao/github-readme-stats)
 
-![Loadhao Repo Star](http://repo-charts.taroxin.cn/api/repo/starChart?repo=vue-pretty-logger&owner=Loadhao)
+![Loadhao Repo Star](http://github-repo-charts/api/repo/starChart?repo=vue-pretty-logger&owner=Loadhao)
 
 ### Hi there 👋
 
